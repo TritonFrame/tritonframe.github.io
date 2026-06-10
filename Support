@@ -1,0 +1,39 @@
+Privacy Policy
+
+Last updated: 09.04.2026
+
+Introduction
+
+At TritonFrame, we respect the privacy of our users and are committed to protecting it through our compliance with this policy. This policy describes what data our advertising partners may collect when you use Beep Timer, and the choices you can make about that data.
+
+Data We Collect
+
+Beep Timer does not directly collect, transmit, or store any personal data on our servers. Your workout settings and preferences are stored locally on your device only and are never sent anywhere.
+
+Advertisements
+
+We use Google AdMob with third-party mediation partners to display ads. These partners may collect device identifiers (such as the Google Advertising ID), IP address, and usage data to serve relevant ads. Our active mediation partners are:
+
+• Google AdMob / Google Mobile Ads • IronSource (Unity LevelPlay) • Unity Ads • InMobi
+
+Each partner operates under its own privacy policy and is independently responsible for data collected through its SDK.
+
+Consent (GDPR / EEA Users)
+
+If you are located in the European Economic Area (EEA) or UK, the app will display a consent dialog on first launch powered by Google's User Messaging Platform (UMP). You can choose whether to allow personalized advertising. Without your consent, only non-personalized ads will be shown.
+
+Local Storage (AsyncStorage)
+
+Beep Timer uses AsyncStorage to save your timer settings and workout preferences locally on your device. This data never leaves your device and is not shared with us or any third party.
+
+Security
+
+Since we do not collect or transmit your personal data, the primary security considerations relate to the ad SDKs operating within industry-standard practices. No method of electronic storage or internet transmission is 100% secure, and we cannot guarantee absolute security of data handled by third-party partners.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+
+If you have any questions about this Privacy Policy or App, please contact us at: tritonframe@gmail.com
