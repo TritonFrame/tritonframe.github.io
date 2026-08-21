@@ -1,0 +1,46 @@
+Privacy Policy for TallyCount
+
+Last updated: August 21, 2026
+
+1. Overview
+
+TallyCount ("the App") is a tally counter and bill-splitting application developed by Triton Frame. This Privacy Policy explains how we handle information when you use the App.
+
+2. Data We Do Not Collect
+
+We do not collect, store, or transmit any personal data to our servers. All data you create in the App (counters, bills, settings) is stored exclusively on your device using local storage and is never sent to us or any third party by us.
+
+3. Advertising
+
+The App displays ads provided by Google AdMob (Google LLC). To serve relevant ads, Google AdMob may collect and use certain information, including:
+
+Your device's Advertising ID (Android) or IDFA (iOS)
+Approximate location (derived from IP address)
+Device information and app usage data
+On iOS, the App will ask for your permission to track you before any personalized advertising takes place (via Apple's App Tracking Transparency framework). You may deny this permission; you will still see ads, but they will be non-personalized.
+
+Google's data collection is governed by Google's Privacy Policy: https://policies.google.com/privacy
+
+4. Permissions
+
+The App requests the following permissions:
+
+AD_ID (Android): Used solely for advertising purposes via Google AdMob.
+Vibration: Used for haptic feedback when you tap a counter.
+Internet: Required to load advertisements.
+5. Local Data Storage
+
+All app data (counters, bill entries, preferences) is stored locally on your device. We have no access to this data. If you uninstall the App, this data is permanently deleted.
+
+6. Children's Privacy
+
+The App is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, please contact us.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date.
+
+8. Contact
+
+If you have any questions about this Privacy Policy, please contact us at:
+tritonframe@gmail.com
